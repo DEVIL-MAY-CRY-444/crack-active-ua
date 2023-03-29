@@ -1,0 +1,2 @@
+import ua
+ua.main()
